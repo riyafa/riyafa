@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyafa&label=Profile%20views&color=0e75b6&style=flat" alt="supuns" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyafa&label=Profile%20views&color=0e75b6&style=flat" alt="riyafa" /> </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=riyafa&theme=default&show_icons=true)
 
